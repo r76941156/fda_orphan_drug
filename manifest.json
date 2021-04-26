@@ -1,0 +1,12 @@
+{
+    "version": "0.1",
+    "requires" : ["pandas"],
+    "dumper" : {
+        "data_url" : ["https://github.com/r76941156/fda_rare_disease_treatment/blob/main/compound.csv"],
+        "uncompress" : false
+    },
+    "uploader" : {
+        "parser" : "parser:load_data",
+        "on_duplicates" : "error"
+    }
+}
