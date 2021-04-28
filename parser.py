@@ -10,6 +10,6 @@ logging = config.logger
 def load_data(data_folder):
     infile = os.path.join(data_folder,"compound.csv")
     assert os.path.exists(infile)
-    dat = pd.read_csv(infile).to_dict('records')
+    dat = pd.read_csv(infile,sep="\t").to_dict('records')
     for rec in dat:
          rec = dict_sweep(rec,vals=[np.nan])
