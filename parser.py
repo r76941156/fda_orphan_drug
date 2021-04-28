@@ -13,3 +13,4 @@ def load_data(data_folder):
     dat = pd.read_csv(infile,sep="\t").to_dict('records')
     for rec in dat:
          rec = dict_sweep(rec,vals=[np.nan])
+    return dat        
