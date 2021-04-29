@@ -14,6 +14,6 @@ def load_data(data_folder):
     # a dictionary
     data = json.load(f)
     f.close()
-    return data
+    yield data
 
 
