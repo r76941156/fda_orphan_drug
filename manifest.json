@@ -1,6 +1,5 @@
 {
     "version": "0.1",
-    "requires" : ["json"],
     "dumper" : {
         "data_url" : ["https://github.com/r76941156/fda_rare_disease_treatment/blob/main/data.json"],
         "uncompress" : false
