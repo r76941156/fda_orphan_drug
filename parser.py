@@ -9,7 +9,7 @@ def load_data(data_folder):
     # a dictionary
     data = json.load(f)
     f.close()
-    for doc in data:                                                                                                               │·························································
+    for doc in data:
         yield doc
 
 
