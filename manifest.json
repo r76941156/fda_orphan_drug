@@ -6,7 +6,6 @@
     },
     "uploader" : {
         "parser" : "parser:load_data",
-        "on_duplicates" : "error",
-        "mapping" : "mapping:get_customized_mapping"
+        "on_duplicates" : "error"
     }
 }
