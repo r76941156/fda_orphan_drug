@@ -1,13 +1,13 @@
 def get_customized_mapping(cls):
     mapping = {
           "fda_orphan_drug": {
-              "properties": {
-                "designated_date": {
-                "type": "date"
+                "properties": {
+                    "designated_date": {
+                    "type": "date"
                 },
                 "designation_status": {
-                  "normalizer": "keyword_lowercase_normalizer",
-                  "type": "keyword"
+                    "normalizer": "keyword_lowercase_normalizer",
+                    "type": "keyword"
                 },
                 "orphan_designation": {
                   "properties": {
