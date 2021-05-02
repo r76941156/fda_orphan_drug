@@ -71,7 +71,7 @@ def get_customized_mapping(cls):
                 },
                 "sponsor": {
                   "type": "text",
-                  "index": false
+                  "index": "false"
                 }
             }
         }
