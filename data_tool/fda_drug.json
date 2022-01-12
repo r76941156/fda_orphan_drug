@@ -1,0 +1,642 @@
+[
+    {
+        "_id": "135339902",
+        "fda_orphan_drug": [
+            {
+                "pubchem_sid": [
+                    "135339902",
+                    "160704150",
+                    "223366009",
+                    "347911271",
+                    "402355846",
+                    "402356184"
+                ],
+                "sponsor": "AstraZeneca Pharmaceuticals LP (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "Benralizumab",
+                "designated_status": "Designated",
+                "designated_date": "11/1/21",
+                "marketing_approval_date": "1/12/21",
+                "exclusivity_end_date": "10/12/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of eosinophilic gastroenteritis",
+                    "umls": "C1262481",
+                    "parsed_text": "Eosinophilic gastroenteritis"
+                }
+            },
+            {
+                "pubchem_sid": [
+                    "135339902",
+                    "160704150",
+                    "223366009",
+                    "347911271",
+                    "402355846",
+                    "402356184"
+                ],
+                "sponsor": "AstraZeneca Pharmaceuticals LP (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "Benralizumab",
+                "designated_status": "Designated",
+                "designated_date": "11/1/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of Eosinophilic Gastritis (EG)",
+                    "umls": "C0267154",
+                    "parsed_text": "Eosinophilic gastritis"
+                }
+            }
+        ]
+    },
+    {
+        "_id": "160704150",
+        "fda_orphan_drug": [
+            {
+                "pubchem_sid": [
+                    "135339902",
+                    "160704150",
+                    "223366009",
+                    "347911271",
+                    "402355846",
+                    "402356184"
+                ],
+                "sponsor": "AstraZeneca Pharmaceuticals LP (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "Benralizumab",
+                "designated_status": "Designated",
+                "designated_date": "11/1/21",
+                "marketing_approval_date": "1/12/21",
+                "exclusivity_end_date": "10/12/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of eosinophilic gastroenteritis",
+                    "umls": "C1262481",
+                    "parsed_text": "Eosinophilic gastroenteritis"
+                }
+            },
+            {
+                "pubchem_sid": [
+                    "135339902",
+                    "160704150",
+                    "223366009",
+                    "347911271",
+                    "402355846",
+                    "402356184"
+                ],
+                "sponsor": "AstraZeneca Pharmaceuticals LP (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "Benralizumab",
+                "designated_status": "Designated",
+                "designated_date": "11/1/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of Eosinophilic Gastritis (EG)",
+                    "umls": "C0267154",
+                    "parsed_text": "Eosinophilic gastritis"
+                }
+            }
+        ]
+    },
+    {
+        "_id": "223366009",
+        "fda_orphan_drug": [
+            {
+                "pubchem_sid": [
+                    "135339902",
+                    "160704150",
+                    "223366009",
+                    "347911271",
+                    "402355846",
+                    "402356184"
+                ],
+                "sponsor": "AstraZeneca Pharmaceuticals LP (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "Benralizumab",
+                "designated_status": "Designated",
+                "designated_date": "11/1/21",
+                "marketing_approval_date": "1/12/21",
+                "exclusivity_end_date": "10/12/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of eosinophilic gastroenteritis",
+                    "umls": "C1262481",
+                    "parsed_text": "Eosinophilic gastroenteritis"
+                }
+            },
+            {
+                "pubchem_sid": [
+                    "135339902",
+                    "160704150",
+                    "223366009",
+                    "347911271",
+                    "402355846",
+                    "402356184"
+                ],
+                "sponsor": "AstraZeneca Pharmaceuticals LP (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "Benralizumab",
+                "designated_status": "Designated",
+                "designated_date": "11/1/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of Eosinophilic Gastritis (EG)",
+                    "umls": "C0267154",
+                    "parsed_text": "Eosinophilic gastritis"
+                }
+            }
+        ]
+    },
+    {
+        "_id": "347911271",
+        "fda_orphan_drug": [
+            {
+                "pubchem_sid": [
+                    "135339902",
+                    "160704150",
+                    "223366009",
+                    "347911271",
+                    "402355846",
+                    "402356184"
+                ],
+                "sponsor": "AstraZeneca Pharmaceuticals LP (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "Benralizumab",
+                "designated_status": "Designated",
+                "designated_date": "11/1/21",
+                "marketing_approval_date": "1/12/21",
+                "exclusivity_end_date": "10/12/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of eosinophilic gastroenteritis",
+                    "umls": "C1262481",
+                    "parsed_text": "Eosinophilic gastroenteritis"
+                }
+            },
+            {
+                "pubchem_sid": [
+                    "135339902",
+                    "160704150",
+                    "223366009",
+                    "347911271",
+                    "402355846",
+                    "402356184"
+                ],
+                "sponsor": "AstraZeneca Pharmaceuticals LP (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "Benralizumab",
+                "designated_status": "Designated",
+                "designated_date": "11/1/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of Eosinophilic Gastritis (EG)",
+                    "umls": "C0267154",
+                    "parsed_text": "Eosinophilic gastritis"
+                }
+            }
+        ]
+    },
+    {
+        "_id": "402355846",
+        "fda_orphan_drug": [
+            {
+                "pubchem_sid": [
+                    "135339902",
+                    "160704150",
+                    "223366009",
+                    "347911271",
+                    "402355846",
+                    "402356184"
+                ],
+                "sponsor": "AstraZeneca Pharmaceuticals LP (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "Benralizumab",
+                "designated_status": "Designated",
+                "designated_date": "11/1/21",
+                "marketing_approval_date": "1/12/21",
+                "exclusivity_end_date": "10/12/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of eosinophilic gastroenteritis",
+                    "umls": "C1262481",
+                    "parsed_text": "Eosinophilic gastroenteritis"
+                }
+            },
+            {
+                "pubchem_sid": [
+                    "135339902",
+                    "160704150",
+                    "223366009",
+                    "347911271",
+                    "402355846",
+                    "402356184"
+                ],
+                "sponsor": "AstraZeneca Pharmaceuticals LP (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "Benralizumab",
+                "designated_status": "Designated",
+                "designated_date": "11/1/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of Eosinophilic Gastritis (EG)",
+                    "umls": "C0267154",
+                    "parsed_text": "Eosinophilic gastritis"
+                }
+            }
+        ]
+    },
+    {
+        "_id": "402356184",
+        "fda_orphan_drug": [
+            {
+                "pubchem_sid": [
+                    "135339902",
+                    "160704150",
+                    "223366009",
+                    "347911271",
+                    "402355846",
+                    "402356184"
+                ],
+                "sponsor": "AstraZeneca Pharmaceuticals LP (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "Benralizumab",
+                "designated_status": "Designated",
+                "designated_date": "11/1/21",
+                "marketing_approval_date": "1/12/21",
+                "exclusivity_end_date": "10/12/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of eosinophilic gastroenteritis",
+                    "umls": "C1262481",
+                    "parsed_text": "Eosinophilic gastroenteritis"
+                }
+            },
+            {
+                "pubchem_sid": [
+                    "135339902",
+                    "160704150",
+                    "223366009",
+                    "347911271",
+                    "402355846",
+                    "402356184"
+                ],
+                "sponsor": "AstraZeneca Pharmaceuticals LP (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "Benralizumab",
+                "designated_status": "Designated",
+                "designated_date": "11/1/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of Eosinophilic Gastritis (EG)",
+                    "umls": "C0267154",
+                    "parsed_text": "Eosinophilic gastritis"
+                }
+            }
+        ]
+    },
+    {
+        "_id": "QNQZWEGMKJBHEM-UHFFFAOYSA-N",
+        "fda_orphan_drug": [
+            {
+                "pubchem_sid": [
+                    "163642702",
+                    "178103090",
+                    "210275277",
+                    "210280918",
+                    "255343883",
+                    "315794093",
+                    "317223444",
+                    "318153464",
+                    "318390132",
+                    "319392552",
+                    "319554211",
+                    "347828201",
+                    "349356391",
+                    "355039318",
+                    "363748128",
+                    "365269840",
+                    "375576981",
+                    "375590252",
+                    "378135183",
+                    "381353475",
+                    "381973084",
+                    "382165449",
+                    "384432598",
+                    "385646702",
+                    "386483088",
+                    "387144535",
+                    "387225922",
+                    "441167473",
+                    "444134269",
+                    "447222493",
+                    "458758167",
+                    "354343360"
+                ],
+                "inchikey": "QNQZWEGMKJBHEM-UHFFFAOYSA-N",
+                "pubchem_cid": "46861623",
+                "sponsor": "Mereo Biopharma 4 Limited (United Kingdom)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "Alvelestat",
+                "designated_status": "Designated",
+                "designated_date": "10/25/21",
+                "marketing_approval_date": "9/12/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of Alpha-1 Antitrypsin Deficiency",
+                    "umls": "C0221757",
+                    "parsed_text": "alpha 1-Antitrypsin Deficiency"
+                }
+            }
+        ]
+    },
+    {
+        "_id": "JLOBMWCZCWALTQ-UHFFFAOYSA-N",
+        "fda_orphan_drug": [
+            {
+                "pubchem_sid": [
+                    "442921523",
+                    "444137028",
+                    "445521143",
+                    "447402745"
+                ],
+                "inchikey": "JLOBMWCZCWALTQ-UHFFFAOYSA-N",
+                "pubchem_cid": "141401321",
+                "sponsor": "Neuroene Therapeutics (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "2-[(3-Methylbutyl)amino]-1,4-naphthalenedione",
+                "designated_status": "Designated",
+                "designated_date": "10/12/21",
+                "orphan_designation": {
+                    "original_text": "Treatment of Dravet Syndrome",
+                    "umls": "C0751122",
+                    "parsed_text": "Infantile Severe Myoclonic Epilepsy"
+                }
+            }
+        ]
+    },
+    {
+        "_id": "DFOCUWZXJBAUSQ-URLMMPGGSA-N",
+        "fda_orphan_drug": [
+            {
+                "pubchem_sid": [
+                    "11548",
+                    "415734",
+                    "79243583",
+                    "99300582",
+                    "104098827",
+                    "134973998",
+                    "223439096",
+                    "242059011",
+                    "251915749",
+                    "251917097",
+                    "274294125",
+                    "274951777",
+                    "319215015",
+                    "340124143",
+                    "340472120",
+                    "341151752",
+                    "354744838",
+                    "363904488",
+                    "381939956",
+                    "382370727",
+                    "385145553",
+                    "385325203",
+                    "385379295",
+                    "385787679",
+                    "386624764",
+                    "387083899",
+                    "404640941",
+                    "404721307",
+                    "444110678",
+                    "445493607",
+                    "458867203",
+                    "49893372",
+                    "79243580",
+                    "92718030",
+                    "126628631",
+                    "126657663",
+                    "126670243",
+                    "162190159",
+                    "162220447",
+                    "196106090",
+                    "254777575",
+                    "255345099",
+                    "316563006",
+                    "316897993",
+                    "318022689",
+                    "318238676",
+                    "319068404",
+                    "348354847",
+                    "375102835",
+                    "375668306",
+                    "382161319",
+                    "386331396",
+                    "405487201",
+                    "433967831",
+                    "440033859",
+                    "446259827",
+                    "447218139",
+                    "458697770",
+                    "579512",
+                    "10320393",
+                    "252345854",
+                    "252406164",
+                    "597965",
+                    "79243581",
+                    "79243582",
+                    "126631311",
+                    "312695240",
+                    "318156687",
+                    "341838344",
+                    "438572268"
+                ],
+                "inchikey": "DFOCUWZXJBAUSQ-URLMMPGGSA-N",
+                "pubchem_cid": "275182",
+                "sponsor": "IsoQ Therapeutics Inc. (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "berbamine",
+                "designated_status": "Designated",
+                "designated_date": "11/29/21",
+                "marketing_approval_date": "1/12/19",
+                "exclusivity_end_date": "10/12/20",
+                "orphan_designation": {
+                    "original_text": "Treatment of T-cell lymphoma",
+                    "umls": "C0079772",
+                    "parsed_text": "T-Cell Lymphoma"
+                }
+            }
+        ]
+    },
+    {
+        "_id": "DFOCUWZXJBAUSQ-UHFFFAOYSA-N",
+        "fda_orphan_drug": [
+            {
+                "pubchem_sid": [
+                    "11548",
+                    "415734",
+                    "79243583",
+                    "99300582",
+                    "104098827",
+                    "134973998",
+                    "223439096",
+                    "242059011",
+                    "251915749",
+                    "251917097",
+                    "274294125",
+                    "274951777",
+                    "319215015",
+                    "340124143",
+                    "340472120",
+                    "341151752",
+                    "354744838",
+                    "363904488",
+                    "381939956",
+                    "382370727",
+                    "385145553",
+                    "385325203",
+                    "385379295",
+                    "385787679",
+                    "386624764",
+                    "387083899",
+                    "404640941",
+                    "404721307",
+                    "444110678",
+                    "445493607",
+                    "458867203",
+                    "49893372",
+                    "79243580",
+                    "92718030",
+                    "126628631",
+                    "126657663",
+                    "126670243",
+                    "162190159",
+                    "162220447",
+                    "196106090",
+                    "254777575",
+                    "255345099",
+                    "316563006",
+                    "316897993",
+                    "318022689",
+                    "318238676",
+                    "319068404",
+                    "348354847",
+                    "375102835",
+                    "375668306",
+                    "382161319",
+                    "386331396",
+                    "405487201",
+                    "433967831",
+                    "440033859",
+                    "446259827",
+                    "447218139",
+                    "458697770",
+                    "579512",
+                    "10320393",
+                    "252345854",
+                    "252406164",
+                    "597965",
+                    "79243581",
+                    "79243582",
+                    "126631311",
+                    "312695240",
+                    "318156687",
+                    "341838344",
+                    "438572268"
+                ],
+                "inchikey": "DFOCUWZXJBAUSQ-UHFFFAOYSA-N",
+                "pubchem_cid": "10170",
+                "sponsor": "IsoQ Therapeutics Inc. (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "berbamine",
+                "designated_status": "Designated",
+                "designated_date": "11/29/21",
+                "marketing_approval_date": "1/12/19",
+                "exclusivity_end_date": "10/12/20",
+                "orphan_designation": {
+                    "original_text": "Treatment of T-cell lymphoma",
+                    "umls": "C0079772",
+                    "parsed_text": "T-Cell Lymphoma"
+                }
+            }
+        ]
+    },
+    {
+        "_id": "DFOCUWZXJBAUSQ-WDYNHAJCSA-N",
+        "fda_orphan_drug": [
+            {
+                "pubchem_sid": [
+                    "11548",
+                    "415734",
+                    "79243583",
+                    "99300582",
+                    "104098827",
+                    "134973998",
+                    "223439096",
+                    "242059011",
+                    "251915749",
+                    "251917097",
+                    "274294125",
+                    "274951777",
+                    "319215015",
+                    "340124143",
+                    "340472120",
+                    "341151752",
+                    "354744838",
+                    "363904488",
+                    "381939956",
+                    "382370727",
+                    "385145553",
+                    "385325203",
+                    "385379295",
+                    "385787679",
+                    "386624764",
+                    "387083899",
+                    "404640941",
+                    "404721307",
+                    "444110678",
+                    "445493607",
+                    "458867203",
+                    "49893372",
+                    "79243580",
+                    "92718030",
+                    "126628631",
+                    "126657663",
+                    "126670243",
+                    "162190159",
+                    "162220447",
+                    "196106090",
+                    "254777575",
+                    "255345099",
+                    "316563006",
+                    "316897993",
+                    "318022689",
+                    "318238676",
+                    "319068404",
+                    "348354847",
+                    "375102835",
+                    "375668306",
+                    "382161319",
+                    "386331396",
+                    "405487201",
+                    "433967831",
+                    "440033859",
+                    "446259827",
+                    "447218139",
+                    "458697770",
+                    "579512",
+                    "10320393",
+                    "252345854",
+                    "252406164",
+                    "597965",
+                    "79243581",
+                    "79243582",
+                    "126631311",
+                    "312695240",
+                    "318156687",
+                    "341838344",
+                    "438572268"
+                ],
+                "inchikey": "DFOCUWZXJBAUSQ-WDYNHAJCSA-N",
+                "pubchem_cid": "12300053",
+                "sponsor": "IsoQ Therapeutics Inc. (United States)",
+                "approval_status": "Not FDA Approved for Orphan Indication",
+                "generic_name": "berbamine",
+                "designated_status": "Designated",
+                "designated_date": "11/29/21",
+                "marketing_approval_date": "1/12/19",
+                "exclusivity_end_date": "10/12/20",
+                "orphan_designation": {
+                    "original_text": "Treatment of T-cell lymphoma",
+                    "umls": "C0079772",
+                    "parsed_text": "T-Cell Lymphoma"
+                }
+            }
+        ]
+    }
+]

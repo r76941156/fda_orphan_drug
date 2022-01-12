@@ -1,0 +1,17 @@
+Disease or Syndrome
+Neoplastic Process
+Pathologic Function
+Injury or Poisoning
+Gene or Genome
+Congenital Abnormality
+Finding
+Sign or Symptom
+Diagnostic Procedure
+Intellectual Product
+Anatomical Abnormality
+Bacterium
+Virus
+Body Space or Junction
+Mental or Behavioral Dysfunction
+Cell Component
+Eukaryote
