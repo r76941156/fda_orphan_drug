@@ -1,3 +1,6 @@
+Update (01/19/2022):
+   Data has been updated to 01/13/2022. The user can verify *.json files in data_tool folder before moving to main folder.
+
 Update(01/12/2022):
 
 1. Manually download Orphan drug data from U.S. FDA site (<a href='https://www.accessdata.fda.gov/scripts/opdlisting/oopd/'>Data Source</a>)
