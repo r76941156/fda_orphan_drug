@@ -14,13 +14,15 @@ MetaMap_path = "/Users/wu-chensu/Downloads/public_mm_lite/"
 source_file="FDA_0113.csv"
 fda_dis_output="fda_disease.json"
 fda_drug_output="fda_drug.json"
+tmp_output="tmp_output.xlsx"
+final_output="final_output.xlsx"
 
 def create_fda_disease_json_file(): ###create json file for FDA Orphan disease Plug-in
   with open(fda_dis_output, 'a') as outfile:
    doc=[]
-   file_name="final_output.xlsx"
-   if os.path.exists(file_name):
-     df=pd.read_excel(file_name,engine='openpyxl')
+   
+   if os.path.exists(final_output):
+     df=pd.read_excel(final_output,engine='openpyxl')
      df['parsed_content'] = df['parsed_content'].apply(lambda x: ast.literal_eval(x))
 
      if (not df['Marketing Approval Date'].isnull().values.any()):
@@ -100,9 +102,9 @@ def create_fda_disease_json_file(): ###create json file for FDA Orphan disease P
 def create_fda_drug_json_file(): ###create json file for FDA Orphan drug Plug-in
   with open(fda_drug_output, 'a') as outfile:
    doc=[]
-   file_name="final_output.xlsx"
-   if os.path.exists(file_name):
-     df=pd.read_excel(file_name,engine='openpyxl')
+   
+   if os.path.exists(final_output):
+     df=pd.read_excel(final_output,engine='openpyxl')
      df['parsed_content'] = df['parsed_content'].apply(lambda x: ast.literal_eval(x))
      if (not df['Marketing Approval Date'].isnull().values.any()):
         df['Marketing Approval Date']=df['Marketing Approval Date'].str.strip()
@@ -244,8 +246,8 @@ def process_mmifiles(file_path): ### process mmi file (result) from MetaMap
     return (id_content)  
 
 def update_xlsfile(new_df,id_content): ###update xlsx file
-    file_name = 'tmp_output.xlsx' 
-    df = pd.read_excel(file_name, index_col=0)
+     
+    df = pd.read_excel(tmp_output, index_col=0)
     for index,row in df.iterrows():
       for i in id_content :
         id_value=id_content[i]
@@ -287,7 +289,7 @@ def process_txtfiles(): ###parse text files from pervious steps using MetaMap
            print(id_content)
            new_df=update_xlsfile(new_df,id_content)
         
-    new_df.to_excel("final_output.xlsx", index=False,header=True)
+    new_df.to_excel(final_output, index=False,header=True)
 
 
 def search_pubchem_id(generic): ###search pubchem info
@@ -363,7 +365,7 @@ def parse_fda_file():
                    new_df = new_df.append(row, ignore_index=False)
                    file_name=str(record_id)+".txt"
                    write_file(file_name,orphan_designation)
-                   append_df_to_excel(new_df, "tmp_output.xlsx")
+                   append_df_to_excel(new_df, tmp_output)
             record_id+=1
             time.sleep(15) #sleep for 15 seconds
             print("----------")
